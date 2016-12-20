@@ -1,0 +1,8 @@
+title: Yuxiao Sun
+description: I am a graduate student at the University of Chicago reading M.A. in social science. My concentrations are computational linguistics and machine learning.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
