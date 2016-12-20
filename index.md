@@ -1,6 +1,11 @@
 **PASSION:** pattern recognition & causal inference
 
-**SKILL:** Python/R (intermediate); Java (Intermediate); Pig/Hive/Spark (basic); SQL (intermediate);  Stata/SPSS/SAS (advance); MATLAB/MAPLE (intermediate); JavaScript/Html (basic); Tableau (advance); GIS (basic).
+**Business Skills:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
+
+**Analytical Skills:** Machine Learning; Natural Language Processing; Econometrics; Mathematical Modelling
+
+**Programming Skills:** Language (Java/Python/R/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
+
 
 **LANGUAGE:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
  
