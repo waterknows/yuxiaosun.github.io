@@ -1,6 +1,7 @@
 *I am a graduate student at the University of Chicago reading M.S. in Computer Science and M.A. in Social Science. My concentrations are computational linguistics and machine learning.*
 <br />
 <br />
+<br />
 **TOOLKIT**
 
 **Business:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
@@ -10,6 +11,7 @@
 **Programming:** Language (Java/Python/R/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata)
 
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
+<br />
 <br />
 <br />
 **PROJECTS**
