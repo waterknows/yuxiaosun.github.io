@@ -1,4 +1,4 @@
-**PASSION:** pattern recognition & causal inference
+**Passion:** pattern recognition & causal inference
 
 **Business Skills:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
 
@@ -7,7 +7,7 @@
 **Programming Skills:** Language (Java/Python/R/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
 
 
-**LANGUAGE:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
+**Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
  
 
 **Selected Projects:**
