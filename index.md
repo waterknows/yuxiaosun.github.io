@@ -7,7 +7,7 @@
 
 **Analytical:** Machine Learning; Natural Language Processing; Econometrics; Mathematical Modelling
 
-**Programming:** Language (Java/Python/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
+**Programming:** Language (Java/Python/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata)
 
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
 <br />
