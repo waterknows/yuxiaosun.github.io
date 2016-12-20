@@ -1,7 +1,6 @@
 *I am a graduate student at the University of Chicago reading M.S. in Computer Science and M.A. in Social Science. My concentrations are computational linguistics and machine learning.*
 <br />
-<br />
-________________________________________________________________________________________________________________
+----
 **Business Skills:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
 
 **Analytical Skills:** Machine Learning; Natural Language Processing; Econometrics; Mathematical Modelling
@@ -9,7 +8,8 @@ ________________________________________________________________________________
 **Programming Skills:** Language (Java/Python/R/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
 
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
-_________________________________________________________________________________________________________________
+<br />
+----
 **Selected Projects:**
 
 1. [Study on Nonprofits' Mission Statements and Fund Raising Capacity](https://github.com/yuxiaosun/USngomission)
