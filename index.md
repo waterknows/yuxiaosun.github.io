@@ -1,7 +1,7 @@
 *I am a graduate student at the University of Chicago reading M.S. in Computer Science and M.A. in Social Science. My concentrations are computational linguistics and machine learning.*
 <br />
 <br />
-**TOOLKIT**
+**TOOLKIT**<p align="center">
 
 **Business:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
 
@@ -12,7 +12,7 @@
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
 <br />
 <br />
-**PROJECTS**
+**PROJECTS**<p align="center">
 
 1. [Study on Nonprofits' Mission Statements and Fund Raising Capacity](https://github.com/yuxiaosun/USngomission)
 
