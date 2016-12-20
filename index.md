@@ -1,5 +1,6 @@
 *I am a graduate student at the University of Chicago reading M.S. in Computer Science and M.A. in Social Science. My concentrations are computational linguistics and machine learning.*
 <br />
+<br />
 
 **Business Skills:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
 
