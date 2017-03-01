@@ -1,14 +1,14 @@
-*I am a graduate student at the University of Chicago reading M.S. in Computer Science and M.A. in Social Science. My concentrations are computational linguistics and machine learning.*
+*With an educational background in computer science, economics and linguistics and three years of work experience in data-driven consulting, I am passionate about applying machine learning and natural language processing models to create both business value and social good.*
 <br />
 <br />
 <br />
 **TOOLKIT**
 
-**Business:** Data-driven Solutions; Social Media Intelligence; Marketing Strategies; CRM Management 
+**Analytical:** Deep Learning; Machine Learning; Natural Language Processing; System Integration
 
-**Analytical:** Machine Learning; Natural Language Processing; Econometrics; Mathematical Modelling
+**Programming:** Python/R/SQL/Java/C++; Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/SAS/Matlab)
 
-**Programming:** Language (Java/Python/R/SQL); Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata)
+**Business:** Data-driven Consulting; Social Media Intelligence; Marketing Strategies; CRM Management 
 
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
 <br />
