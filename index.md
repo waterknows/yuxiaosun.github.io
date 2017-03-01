@@ -6,7 +6,7 @@
 
 **Analytical:** Deep Learning; Machine Learning; Natural Language Processing; System Integration
 
-**Programming:** Python/R/SQL/Java/C++; Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/SAS/Matlab)
+**Programming:** Python/R/SQL/Java/C++; Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
 
 **Business:** Data-driven Consulting; Social Media Intelligence; Marketing Strategies; CRM Management 
 
