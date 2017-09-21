@@ -1,14 +1,14 @@
-*With an educational background in computer science, economics and linguistics and three years of work experience in data-driven consulting, I am passionate about applying machine learning and natural language processing models to create both business value and social good.*
+*With an educational background in computer science, economics and linguistics and work experience in both private and public sectors, I am passionate about applying machine learning techniques to create business value and social good.*
 <br />
 <br />
 <br />
 **TOOLKIT**
 
-**Analytical:** Deep Learning; Machine Learning; Natural Language Processing; System Integration
+**Analytical:** Deep Learning; Machine Learning; Natural Language Processing; Data Automation
 
-**Programming:** Python/R/SQL/Java/C++; Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
+**Programming:** Python/R/SQL/Java/C++/Ruby; Big Data (Pig/Hive/Spark); Statistics (Tableau/Stata/Matlab)
 
-**Business:** Data-driven Consulting; Social Media Intelligence; Marketing Strategies; CRM Management 
+**Business:** Social Media Intelligence; User Behavior Analytics
 
 **Language:** English/Fluent; Mandarin Chinese/Fluent; French/Beginner
 <br />
@@ -24,10 +24,12 @@
 
 4. [Seismos: Nonprofits Fiscal Stability Index](https://github.com/aldengolab/seismos-NFP-stability-prediction)
 
-5. [Galaga Game in MVC model with Java](https://github.com/yuxiaosun/javagame)
+5. [Galaga Game](https://github.com/yuxiaosun/javagame)
 
-6. [Machine Learning Toolkit](https://github.com/yuxiaosun/capp-455136/tree/master/mlpipe)
+6. [Heroku Buildpack](https://github.com/yuxiaosun/condanltk-buildpack)
 
-7. [Data Integration Toolkit](https://github.com/yuxiaosun/capp-455136/tree/master/dataintegration)
+7. [Machine Learning Toolkit](https://github.com/yuxiaosun/capp-455136/tree/master/mlpipe)
 
-8. [US Nonprofits Database](https://github.com/yuxiaosun/USngo)
+8. [Data Integration Toolkit](https://github.com/yuxiaosun/capp-455136/tree/master/dataintegration)
+
+9. [US Nonprofits Database](https://github.com/yuxiaosun/USngo)
